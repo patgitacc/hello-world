@@ -1,2 +1,3 @@
 # hello-world
-Test repository to get started with github
+Repository to get started with github
+This is a new version
